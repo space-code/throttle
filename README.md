@@ -3,6 +3,7 @@
 <p align="center">
 <a href="https://github.com/space-code/throttle/blob/main/LICENSE"><img alt="Liscence" src="https://img.shields.io/cocoapods/l/service-core.svg?style=flat"></a>
 <a href="https://github.com/space-code/throttle"><img alt="CI" src="https://github.com/space-code/throttle/actions/workflows/ci.yml/badge.svg?branch=main"></a>
+<a href="https://codecov.io/gh/space-code/throttle"><img src="https://codecov.io/gh/space-code/throttle/graph/badge.svg?token=V5ephewmcD"/></a>
 </p>
 
 ## Description
