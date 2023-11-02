@@ -6,8 +6,9 @@ on:
       - main
       - dev
   pull_request:
-      - main
-      - dev
+    paths:
+      - "throttle/**"
+      - ".github/workflows/**"
 
 jobs:
   build:
